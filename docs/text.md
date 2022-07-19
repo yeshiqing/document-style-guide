@@ -184,10 +184,34 @@ Apple, Inc.
 IOC（International Olympic Committee，国际奥林匹克委员会）。这样定义后，便可以直接使用“IOC”了。
 ```
 
-（6）专有名词中每个词第一个字母均应大写，非专有名词则不需要大写。
+（6）单词大小写
+- 单词作为句首时，首字母需大写。
 
-```
-“American Association of Physicists in Medicine”（美国医学物理学家协会）是专有名词，需要大写。
+- 当一个单词大写和小写有不同意思时，根据语境选择大小还是小写。如 China（中国）、china（瓷器）；Kernel（操作系统内核）、kernel（坚果的核）。
 
-“online transaction processing”（在线事务处理）不是专有名词，不应大写。
-```
+- 专有名词
+
+    - 学术专业名词。如 Linux，它特指类 Unix 操作系统系列。在英语环境中也写作 Linux，那我们遵循约定在中文文章中也首字母大写。
+
+    - 机构名称。每个词的首字母均应大写。
+
+        ```
+        “American Association of Physicists in Medicine”（美国医学物理学家协会）是专有名词，需要大写。
+        ```
+
+    - 如果一个专有名词是由几个单词首字母的缩写组成，则所有字母均需要大写。如 HTTP（Hypertext Transfer Protocol）、HTML (HyperText Markup Language)、CSS（Cascading Style Sheets）。
+
+    - 由普通名词构成的专有名词。如果一个单词在语境中，指代计算机科学领域的专有名词而非普通词汇，首字母大写。如 Kernel（操作系统内核）。kernel 本义是坚果的核的意思，实际上在英语环境中 kernel 通常用小写，它本身是个比喻，用坚果的核比喻操作系统内核。在英语环境中可数名词单数要么加冠词进行限定，要么使用复数形式，所以通常写作 the kernel 或 kernels。但在中文环境中，当我们用 Kernel 特指计算机领域的操作系统内核时，Kernel 需要大写，表示并非坚果的核而是操作系统内核。
+
+    - 人名的首字母大写。如 Tim Berners-Lee（HTML 之父）。
+
+- 非专有名词则不需要大写。
+
+    ```
+    “online transaction processing”（在线事务处理）不是专有名词，不应大写。
+    ```
+
+    
+
+
+
