@@ -185,19 +185,22 @@ IOC（International Olympic Committee，国际奥林匹克委员会）。这样�
 ```
 
 （6）单词大小写
-- 单词作为句首时，首字母需大写。
+- 单词作为句首时，首字母是否大写取决于自身表意。
 
 - 当一个单词大写和小写有不同意思时，根据语境选择大小还是小写。如 China（中国）、china（瓷器）；Kernel（操作系统内核）、kernel（坚果的核）。
 
 - 专有名词
 
-    - 学术专业名词。如 Linux，它特指类 Unix 操作系统系列。在英语环境中也写作 Linux，那我们遵循约定在中文文章中也首字母大写。
+    - 学术专业名词。如 Linux，它特指类 Unix 操作系统系列。在英语环境中也写作 Linux，那我们遵循约定在中文文章中也首字母大写。另外，应避免对专业术语进行口语化表述。比如我们口语中常把“Javascript”简称为“js”，在技术文档中要表述全名。
+      ```
+      JavaScript 语言之所以有`this`的设计，跟内存里面的数据结构有关系。 
+      ```
 
-    - 机构名称。每个词的首字母均应大写。
+    - 机构名称。每个非介词的首字母均应大写。
 
-        ```
-        “American Association of Physicists in Medicine”（美国医学物理学家协会）是专有名词，需要大写。
-        ```
+       ```
+       “American Association of Physicists in Medicine”（美国医学物理学家协会）是专有名词，需要大写。
+       ```
 
     - 如果一个专有名词是由几个单词首字母的缩写组成，则所有字母均需要大写。如 HTTP（Hypertext Transfer Protocol）、HTML (HyperText Markup Language)、CSS（Cascading Style Sheets）。
 
