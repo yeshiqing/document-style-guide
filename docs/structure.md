@@ -58,12 +58,20 @@
 正确：advanced-usage.md
 ```
 
-文件名包含其他符号时，用连词线（`-`）代替。
+文件名包含其他符号（如`.`、`_`）时，用连词线（`-`）代替。
 
 ```
 不佳：upgrading-to-1.0-apis.md
 
 正确：upgrading-to-1-0-apis.md
+
+不佳: .bash_profile-vs-bashrc.md
+
+正确: bash-profile-vs-bashrc.md
+
+不佳: my-first-nodejs-script.md
+
+正确: my-first-node-js-script.md
 ```
 
 ## 文件夹名
