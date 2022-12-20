@@ -8,7 +8,7 @@
 5. [标点符号](docs/marks.md)
 6. [文档体系](docs/structure.md)
 7. [写作规范说明](docs/guide-explaination.md)
-8. [Markdown 技术文档写作规范](docs/markdown-docment-style-guide)
+8. [Markdown 技术文档写作规范](docs/markdown-document-style-guide.md)
 9. [参考链接](docs/reference.md)
 
 ## License
